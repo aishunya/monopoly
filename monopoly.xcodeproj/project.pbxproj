@@ -35,6 +35,7 @@
 		BF8EF64D299AD33700157FD6 /* CompanyType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompanyType.swift; sourceTree = "<group>"; };
 		BF8EF686299B0B7600157FD6 /* CellType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellType.swift; sourceTree = "<group>"; };
 		BF8EF690299C6F5400157FD6 /* DataProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataProvider.swift; sourceTree = "<group>"; };
+		BF8EF692299E9BBC00157FD6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +74,7 @@
 				BF8EF686299B0B7600157FD6 /* CellType.swift */,
 				BF8EF64B299AD1D400157FD6 /* Player.swift */,
 				BF8EF690299C6F5400157FD6 /* DataProvider.swift */,
+				BF8EF692299E9BBC00157FD6 /* README.md */,
 			);
 			path = monopoly;
 			sourceTree = "<group>";
